@@ -9,6 +9,8 @@ Machine Learning CAP 3612
 4. Step 4) Take a full screenshot image of your race time.
 5. Step 5) Submit your race time screeshot to Canvas.
 
+Note: Do not crop, please display the entire screen for submitting.
+
 ## Example Race Time Screenshot
 ---
 ![alt text](image.jpg)
